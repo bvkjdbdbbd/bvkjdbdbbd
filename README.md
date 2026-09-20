@@ -7,6 +7,8 @@
 ### 📌 Featured Project
 
 **[Smart QR Parking](https://github.com/bvkjdbdbbd/hello)**
+
+
 An anonymous, login-free QR-based parking management system. Designed the full business flow, ERD, and security mechanisms (HMAC anti-forgery, brute-force lockout, auto-expiry cleanup) using Python/FastAPI.
 
 ### Currently
