@@ -8,6 +8,6 @@
 
 ## 📌 Featured Project
 
-[Smart QR Parking](https://github.com/bvkjdbdbbd/hello)
+[Smart QR Parking](https://github.com/bvkjdbdbbd/smart-qr-parking)
 
 A login-free, QR-based parking management system. Analyzed and designed the business flow, ERD and security mechanisms (HMAC anti-forgery, one-time tickets, lockout after 5 wrong passcodes). Tech stack: Python/FastAPI.
