@@ -1,10 +1,10 @@
-# Hi, I'm Chau Anh 👋
+# Hi, I'm Chau Anh 
 
 - Recent graduate, Software Engineering & AI
 
 - Skills: Requirements Analysis (SRS, FRS/NFRs, User Story), System Modeling (UML, ERD, Swimlane), SQL, Excel Power Query, Looker Studio, Figma
 
-## 📌 Featured Project
+## Featured Project
 
 [Smart QR Parking](https://github.com/bvkjdbdbbd/smart-qr-parking)
 
