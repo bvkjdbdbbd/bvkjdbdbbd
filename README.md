@@ -4,8 +4,6 @@
 
 - Skills: Requirements Analysis (SRS, FRS/NFRs, User Story), System Modeling (UML, ERD, Swimlane), SQL, Excel Power Query, Looker Studio, Figma
 
-- Currently: Looking for a Business Analyst internship opportunity
-
 ## 📌 Featured Project
 
 [Smart QR Parking](https://github.com/bvkjdbdbbd/smart-qr-parking)
